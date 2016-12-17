@@ -1,2 +1,2 @@
 # CV
-me personal cv
+my personal cv
